@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.data.qld.gov.au/
 common:
+  - type: DomainSecurity
+    url: security/open-government-queensland-government-domain-security.yml
   - type: Website
     url: https://www.data.qld.gov.au/
   - type: PublicAPIsListing
