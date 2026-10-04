@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Queensland Government
     description: "Queensland Government Open Data"
     humanURL: https://www.data.qld.gov.au/
-    baseURL: https://www.data.qld.gov.au/
     tags:
       - Government
     properties:
